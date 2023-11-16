@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**JanRolka/JanRolka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jan Rolka. I am a student of Computer Science at the AGH University in Krakow Poland.
 
 Here are some ideas to get you started:
 
