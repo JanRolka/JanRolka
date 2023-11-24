@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-My name is Jan Rolka. I am a student of Computer Science at the AGH University in Krakow Poland.
+Nazywam się Jan Rolka i jestem studentem pierwszego roku na kierunku Informtyka i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie.
+
+[Link do mojego CV](https://janrolka.github.io/)
