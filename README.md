@@ -5,4 +5,4 @@ Nazywam się Jan Rolka i jestem studentem pierwszego roku na kierunku Informtyka
 [Link do mojego CV](https://janrolka.github.io/)
 
 Będąc dzieckiem fascynowała mnie najbliższa Ziemii exoplaneta o nazwie Proxima Centauri B. Stworzyłem poświęcoen jej repozytorium.
-[Link do ów repozytorium](
+[Link do ów repozytorium](https://github.com/JanRolka/Proxima-Centauri-B)
