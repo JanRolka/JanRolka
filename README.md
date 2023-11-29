@@ -6,3 +6,4 @@ Nazywam się Jan Rolka i jestem studentem pierwszego roku na kierunku Informtyka
 
 Będąc dzieckiem fascynowała mnie najbliższa Ziemii exoplaneta o nazwie Proxima Centauri B. Stworzyłem poświęcoen jej repozytorium.
 [Link do ów repozytorium](https://github.com/JanRolka/Proxima-Centauri-B)
+[Link do ciekawe artykułu na ten temat](https://astro.paperswithcode.com/paper/atmospheric-convection-plays-a-key-role-in)
